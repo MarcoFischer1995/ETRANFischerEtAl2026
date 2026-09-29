@@ -1,6 +1,7 @@
 # Paper agent: cell-to-pack scaling of capacity and resistance in 3 field-aged EV battery packs
 
 [![Paper](https://img.shields.io/badge/Paper-eTransportation%2030%2C%20100636-0b5394)](https://doi.org/10.1016/j.etran.2026.100636)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23045175.svg)](https://doi.org/10.5281/zenodo.23045175)
 
 An AI-readable version of our [open-access article](https://doi.org/10.1016/j.etran.2026.100636), packaged as an agent skill with [Paper2Agent](https://github.com/jmiao24/Paper2Agent) ([Miao et al., *Nature* 2026](https://doi.org/10.1038/s41586-026-11044-y)). Ask it about the teardown workflow, the measurements, the uncertainty analysis, figures and tables. Answers can be traced back to a section, figure or table of the paper.
 
@@ -51,7 +52,7 @@ Then ask, for example:
 
 ## License and attribution
 
-The article is published open access under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This repository is an adaptation of that article. Text, figures and tables were converted to Markdown, JPEG and CSV. Layout artefacts were repaired, and equations were additionally transcribed as text. The scientific content was not modified. This repository is released under CC BY 4.0 as well, see `LICENSE`. Please cite the original article, see `CITATION.cff`.
+The article is published open access under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This repository is an adaptation of that article. Text, figures and tables were converted to Markdown, JPEG and CSV. Layout artefacts were repaired, and equations were additionally transcribed as text. The scientific content was not modified. This repository is released under CC BY 4.0 as well, see `LICENSE`. Please cite the original article, see `CITATION.cff`. Every release is archived on Zenodo: https://doi.org/10.5281/zenodo.23045175 (all versions).
 
 Related paper agent: [JPSFischerEtAl2025](https://github.com/MarcoFischer1995/JPSFischerEtAl2025) for Fischer et al., *Journal of Power Sources* 656 (2025) 237921, the lab study on capacity fade and resistance increase in 814 cells that this field study refers to.
 
