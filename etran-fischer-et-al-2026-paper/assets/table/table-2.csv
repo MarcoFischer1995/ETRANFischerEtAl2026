@@ -1,0 +1,7 @@
+Property,EA PSB 11000-80,IT M3906C-80-120,Li.plus devices,Li.plus devices,Li.plus devices,Li.plus devices
+Level,Pack,Logical cell,Connector/HVD,Logical cell,Module,Pack
+Voltage range,0-1000 V,0-80 V,±2 mV,2.5-5 V,5-80 V,80-500 V
+Voltage resolution ΔU_res,100 mV,1 mV,0.15 nV,600 nV,≤3 μV^a,≤3 μV^a
+Current range,±80 A,±120 A,−12.5 A,−12.5 A,−12.5 A,−12.5 A
+Current resolution,10 mA,10 mA,400 μA,400 μA,400 μA,400 μA
+Sampling rate,10 Hz,≤10 kHz,20 MHz,20 MHz,20 MHz,20 MHz

@@ -1,0 +1,10 @@
+,Pack 1,Pack 2,Pack 3
+U_pack,329.7 V,359.4 V,359.6 V
+Topology,90s2p,98s3p,98s3p
+Logical-cell level,,,
+Ū,3.663 V,3.667 V,3.669 V
+s_U,1.1 mV,0.8 mV,0.9 mV
+U_max,3.665 V,3.668 V,3.672 V
+U_min,3.653 V,3.661 V,3.667 V
+ΔU,12 mV,8 mV,4 mV
+CoV,0.03 %,0.02 %,0.02 %

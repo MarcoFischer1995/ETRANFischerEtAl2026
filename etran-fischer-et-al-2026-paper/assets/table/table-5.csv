@@ -1,0 +1,30 @@
+Section,Quantity,Pack 1,Pack 2,Pack 3
+,Topology,90s2p,98s3p,98s3p
+Capacity C,C̄_log.cell/Ah,120.35,179.11,179.83
+Capacity C,ΔC_module/Ah^a,0.30,3.60,1.80
+Capacity C,ΔC_log.cell/Ah,1.00,5.10,2.70
+Capacity C,"mean SOH_C,log.cell/%",95.5,94.8,95.1
+Capacity C,"SOH_C,log.cell,min/%",95.2,92.8,94.2
+Capacity C,"ΔSOH_C,log.cell/%",0.8,2.7,1.4
+Capacity C,"SOH_E,log.cell,min/%",87.6,85.4,86.7
+Capacity C,CoV(C_module)/%^a,0.11,0.76,0.27
+Capacity C,CoV(C_log.cell)/%,0.15,0.41,0.19
+Capacity C,SOHo_C/%,99.1,97.2,98.5
+"Ohmic resistance R_Ω, module level^b","R̄_Ω,module ± U/mΩ",8.288 ± 0.018,4.003 ± 0.017,3.939 ± 0.024
+"Ohmic resistance R_Ω, module level^b","ΔR_Ω,module/mΩ",0.066,0.076,0.035
+"Ohmic resistance R_Ω, module level^b","CoV(R_Ω,module)/%",0.30,0.85,0.25
+"Ohmic resistance R_Ω, module level^b","CoV(R_Ω,module)/CoV(C_module)^a",2.7,1.1,0.9
+"Ohmic resistance R_Ω, module level^b","SOHo_RΩ,module/%",99.2,98.1,99.1
+"Ohmic resistance R_Ω, logical-cell level","R̄_Ω,log.cell ± U/mΩ",0.560 ± 0.0043,0.404 ± 0.0035,0.396 ± 0.0035
+"Ohmic resistance R_Ω, logical-cell level","ΔR_Ω,log.cell/mΩ",0.032,0.048,0.057
+"Ohmic resistance R_Ω, logical-cell level","CoV(R_Ω,log.cell)/%",1.45,2.32,2.39
+"Ohmic resistance R_Ω, logical-cell level","CoV(R_Ω,log.cell)/CoV(C_log.cell)",9.7,5.7,12.6
+"Ohmic resistance R_Ω, logical-cell level","SOHo_RΩ,log.cell/%",94.5,88.7,86.1
+"Ohmic resistance R_Ω, connector and HVD","ΣR_Ω,conn.+HVD ± U/mΩ",1.46 ± 0.0004,1.73 ± 0.0004,1.73 ± 0.0004
+"DC-pulse resistance R_DC,Δt, logical-cell level","R̄_DC,10s ± U/mΩ",0.951 ± 0.143,0.669 ± 0.276,0.693 ± 0.039
+"DC-pulse resistance R_DC,Δt, logical-cell level","ΔR_DC,10s/mΩ",0.088,0.184,0.088
+"DC-pulse resistance R_DC,Δt, logical-cell level","CoV(R_DC,1s)/%",2.58,4.13,2.69
+"DC-pulse resistance R_DC,Δt, logical-cell level","CoV(R_DC,10s)/%",2.07,3.80,2.40
+"DC-pulse resistance R_DC,Δt, logical-cell level","CoV(R_DC,30s)/%",1.97,3.63,2.18
+"DC-pulse resistance R_DC,Δt, logical-cell level","CoV(R_DC,10s)/CoV(C_log.cell)",13.8,9.3,12.6
+"DC-pulse resistance R_DC,Δt, logical-cell level","SOHo_RDC,10s/%",91.2,76.3,88.0

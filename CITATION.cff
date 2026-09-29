@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this paper agent, please cite the original article: M. Fischer et al., eTransportation 30 (2026) 100636, https://doi.org/10.1016/j.etran.2026.100636"
+title: "Paper agent: Teardown-Based cell-to-pack scaling of capacity and resistance in field-aged EV battery packs"
+type: dataset
+version: "1.0.0"
+date-released: "2026-09-29"
+license: CC-BY-4.0
+repository-code: "https://github.com/MarcoFischer1995/ETRANFischerEtAl2026"
+url: "https://github.com/MarcoFischer1995/ETRANFischerEtAl2026"
+abstract: >-
+  AI-readable paper skill for Fischer et al. (2026), eTransportation 30, 100636,
+  https://doi.org/10.1016/j.etran.2026.100636. It contains the full article text with searchable
+  equation transcriptions, Figures 1 to 6, A.7 and B.8 and Tables 1 to 6, C.7 and D.8 (CSV), for use
+  with Claude, Claude Code or Codex. Converted with Paper2Agent (Miao et al., Nature 2026,
+  https://doi.org/10.1038/s41586-026-11044-y). The package contains no raw data and no code.
+keywords:
+  - lithium-ion battery
+  - electric vehicle battery pack
+  - teardown
+  - field aging
+  - ohmic resistance
+  - measurement uncertainty
+  - Paper2Agent
+  - agent skill
+authors:
+  - family-names: Fischer
+    given-names: Marco
+    affiliation: "Technical University of Munich, Chair of Electrical Energy Storage Technology"
+    email: marco.fischer@tum.de
+preferred-citation:
+  type: article
+  title: "Teardown-Based cell-to-pack scaling of capacity and resistance in field-aged EV battery packs"
+  authors:
+    - family-names: Fischer
+      given-names: Marco
+    - family-names: Brand
+      given-names: Martin J.
+    - family-names: Schröder
+      given-names: Alexander
+    - family-names: Jossen
+      given-names: Andreas
+  journal: "eTransportation"
+  volume: 30
+  start: 100636
+  year: 2026
+  doi: "10.1016/j.etran.2026.100636"

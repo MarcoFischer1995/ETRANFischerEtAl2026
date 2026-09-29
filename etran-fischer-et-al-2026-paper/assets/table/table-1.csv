@@ -1,0 +1,39 @@
+Cell specifications,,,
+Manufacturer,"LG Chem, Ltd.",,
+Cell identifier,LGY E63B,,
+C_N,63 Ah,,
+U_N,3.63 V,,
+Voltage range,2.5 V to 4.2 V,,
+Dimensions (H × W × L),14.5 mm × 100 mm × 301 mm,,
+Weight,882 g,,
+Pack specifications,Pack 1,Pack 2,Pack 3
+Manufacturer,"Hyundai Motor Company, Ltd.",,
+Model,Kona Electric,,
+Battery manufacturing date,"June 30, 2020","March 26, 2019","May 14, 2019"
+Nominal energy,39 kWh,64 kWh,64 kWh
+Nominal pack capacity,126 Ah,189 Ah,189 Ah
+Nominal pack voltage,324 V,352.8 V,352.8 V
+Topology,90s2p,98s3p,98s3p
+Number of modules,6,10,10
+Connectors/HVD,8/1,12/1,12/1
+Number of logical cells^a,90,98,98
+Investigated electrical parameters,,,
+Test temperature,25 °C,,
+Ohmic resistance R_Ω,,,
+SOC,50 %,,
+Current,4 A/6 A^b,,
+Pulse duration,1 ms^c,,
+"DC-pulse resistance R_DC,30s",,,
+SOC,50 %,,
+Current,0.4 C,,
+Pulse duration,30 s^d,,
+Capacity,,,
+Test procedure,CCCV charge and discharge^e,,
+Current,0.4 C,,
+Termination,0.02 C,,
+Investigated components,,,
+Component level,R_Ω,"R_DC,30s",Capacity
+Pack,✓,✓,✗
+Module,✓,✗,✗
+Logical cell,✓,✓,✓
+Connectors/HV disconnect,✓,✗,✗

@@ -1,0 +1,35 @@
+{
+  "upload_type": "dataset",
+  "title": "Paper agent: Teardown-Based cell-to-pack scaling of capacity and resistance in field-aged EV battery packs",
+  "creators": [
+    {
+      "name": "Fischer, Marco",
+      "affiliation": "Technical University of Munich, Chair of Electrical Energy Storage Technology"
+    }
+  ],
+  "description": "<p>AI-readable paper skill for Fischer et al. (2026), <em>eTransportation</em> 30, 100636, <a href=\"https://doi.org/10.1016/j.etran.2026.100636\">https://doi.org/10.1016/j.etran.2026.100636</a>. It contains the full article text with searchable equation transcriptions, Figures 1 to 6, A.7 and B.8 and Tables 1 to 6, C.7 and D.8 (CSV), for use with Claude, Claude Code or Codex.</p><p>Converted with Paper2Agent (Miao et al., <em>Nature</em> 2026, <a href=\"https://doi.org/10.1038/s41586-026-11044-y\">https://doi.org/10.1038/s41586-026-11044-y</a>). The package contains no raw data and no code.</p>",
+  "notes": "If you use this paper agent, please cite the original article: M. Fischer, M.J. Brand, A. Schröder, A. Jossen, Teardown-Based cell-to-pack scaling of capacity and resistance in field-aged EV battery packs, eTransportation 30 (2026) 100636, https://doi.org/10.1016/j.etran.2026.100636",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "lithium-ion battery",
+    "electric vehicle battery pack",
+    "teardown",
+    "field aging",
+    "ohmic resistance",
+    "measurement uncertainty",
+    "Paper2Agent",
+    "agent skill"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1016/j.etran.2026.100636",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.1038/s41586-026-11044-y",
+      "relation": "references",
+      "resource_type": "publication-article"
+    }
+  ]
+}

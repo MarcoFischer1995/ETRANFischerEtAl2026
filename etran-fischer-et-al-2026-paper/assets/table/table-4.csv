@@ -1,0 +1,21 @@
+Resistance,Level,Quantity,Pack 1,Pack 2,Pack 3
+Ohmic resistance R_Ω,Pack,R_Ω ± U/mΩ,51.188 ± 0.015,40.832 ± 0.014,39.999 ± 0.010
+Ohmic resistance R_Ω,Module^a,"R_Ω,mean ± U/mΩ^b",8.288 ± 0.018,4.003 ± 0.017,3.939 ± 0.024
+Ohmic resistance R_Ω,Module^a,ΔR_Ω/mΩ,0.066,0.076,0.035
+Ohmic resistance R_Ω,Module^a,CoV(R_Ω)/%,0.30,0.85,0.25
+Ohmic resistance R_Ω,Module^a,rel. U(R_Ω)/%^b,0.22,0.42,0.61
+Ohmic resistance R_Ω,Module^a,CoV/rel. U^b,1.4,2.0,0.4
+Ohmic resistance R_Ω,Log. cell,"R_Ω,mean ± U/mΩ^b",0.560 ± 0.0043,0.404 ± 0.0035,0.396 ± 0.0035
+Ohmic resistance R_Ω,Log. cell,ΔR_Ω/mΩ,0.032,0.048,0.057
+Ohmic resistance R_Ω,Log. cell,CoV(R_Ω)/%,1.45,2.32,2.39
+Ohmic resistance R_Ω,Log. cell,rel. U(R_Ω)/%^b,0.76,0.88,0.88
+Ohmic resistance R_Ω,Log. cell,CoV/rel. U^b,1.9,2.6,2.7
+"DC-pulse resistance R_DC,Δt",Pack,u_q(R_DC)/mΩ,0.82,0.54,0.54
+"DC-pulse resistance R_DC,Δt",Pack,"R_DC,1s ± U_c/mΩ",68.32 ± 2.27,59.03 ± 1.58,55.77 ± 1.51
+"DC-pulse resistance R_DC,Δt",Pack,"R_DC,10s ± U_c/mΩ",81.98 ± 2.10,68.91 ± 1.58,65.10 ± 1.51
+"DC-pulse resistance R_DC,Δt",Pack,"R_DC,30s ± U_c/mΩ",95.98 ± 2.10,80.76 ± 1.53,76.66 ± 1.58
+"DC-pulse resistance R_DC,Δt",Log. cell^c,"R_DC,10s,mean ± U/mΩ^b",0.951 ± 0.143,0.669 ± 0.276,0.693 ± 0.039
+"DC-pulse resistance R_DC,Δt",Log. cell^c,"ΔR_DC,10s/mΩ",0.088,0.184,0.088
+"DC-pulse resistance R_DC,Δt",Log. cell^c,"CoV(R_DC,10s)/%",2.07,3.80,2.40
+"DC-pulse resistance R_DC,Δt",Log. cell^c,"rel. U(R_DC,10s)/%^b",15.06,41.29,5.57
+"DC-pulse resistance R_DC,Δt",Log. cell^c,CoV/rel. U^b,0.14,0.09,0.43
